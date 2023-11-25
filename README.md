@@ -1,8 +1,12 @@
 # baekjunCodeTest
 
-백준 코드 테스트 작성 답안지
-This is my Answersheet about BaekJun Code Test
+코드 테스트 작성 답안지
+This is my Answersheet about Code Test
+
+## List
+- Baekjoon
+- programmers
 
 ## skills
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" /> JDK1.8
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" /> 1.8
