@@ -35,3 +35,16 @@ public class Test10989_3
 
 // 시간복잡도는 O(N + K) 이다. K는 자릿수를 의미하는데 입력데이터가 K 보다 훨 씬 큰경우. 
 // 즉 데이터가 많으면 많을 수록 O(N) 에 가깝기 때문에 이상적으로는 O(N) 이라고 보아도 무방
+
+/*
+ *  위 출력과 동일한 방법으로 while 대신에 String 의 repeat() 사용하는 방법 
+ *  (단, 자바 11 버전 이후 지원하는 새로운 기능)
+        for (int i = 0; i < arr.length; i++) 
+        {
+            if(arr[i] != 0)
+            {
+                String str = String.valueOf(i)+"\n";
+                bw.write(str.repeat(arr[i]));
+            }
+        }
+*/
