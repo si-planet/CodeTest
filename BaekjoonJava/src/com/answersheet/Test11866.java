@@ -33,7 +33,6 @@ public class Test11866
             while (pointer >= arr.size()) 
                 pointer -= arr.size();	
             
-			n--;
 		}
 		
 		StringBuilder sb = new StringBuilder();
