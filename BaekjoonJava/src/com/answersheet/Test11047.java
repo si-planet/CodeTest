@@ -3,7 +3,7 @@ package com.answersheet;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Tesr11047 
+public class Test11047 
 {
     public static void main(String args[]) throws IOException
     {
