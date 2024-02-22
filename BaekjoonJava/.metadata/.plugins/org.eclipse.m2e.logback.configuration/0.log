@@ -1,0 +1,21 @@
+2024-02-22 17:17:56,380 [main] WARN  org.eclipse.jgit.util.FS_Win32 - Exception caught during execution of command '[bash, --login, -c, which git]' in 'C:\Users\sooin', return code '1', error message '<3>WSL (11) ERROR: CreateProcessParseCommon:708: Failed to translate C:\Users\sooin
+<3>WSL (11) ERROR: CreateProcessParseCommon:754: getpwuid(0) failed 2
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Program Files\Java\jdk-21\bin\server
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Program Files\Java\jdk-21\bin
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Program Files\Java\jdk-21\bin
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Program Files\Java\scripts
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Windows\system32
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Windows
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Windows\System32\Wbem
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Windows\System32\WindowsPowerShell\v1.0\
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Windows\System32\OpenSSH\
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Program Files\Docker\Docker\resources\bin
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Users\sooin\AppData\Local\Microsoft\WindowsApps
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Coding\IntelliJ IDEA Community Edition 2023.3.3\bin
+<3>WSL (11) ERROR: UtilTranslatePathList:2866: Failed to translate C:\Coding\eclipse
+<3>WSL (11) ERROR: CreateProcessEntryCommon:331: getpwuid(0) failed 2
+<3>WSL (11) ERROR: CreateProcessEntryCommon:502: execvpe /bin/bash failed 2
+<3>WSL (11) ERROR: CreateProcessEntryCommon:505: Create process not expected to return
+'
+2024-02-22 17:18:10,293 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
