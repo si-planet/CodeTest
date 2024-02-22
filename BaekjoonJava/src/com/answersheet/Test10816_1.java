@@ -18,7 +18,7 @@ public class Test10816_1
 		for (int i=0; i<N; i++)
 			arr[Integer.parseInt(st.nextToken()) + 10000000]++;
 		
-		int M = Integer.parseInt(br.readLine());
+		Integer.parseInt(br.readLine());
 		StringBuilder sb = new StringBuilder();
 		
 		st = new StringTokenizer(br.readLine(), " ");

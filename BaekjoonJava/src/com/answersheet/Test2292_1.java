@@ -9,6 +9,8 @@ public class Test2292_1
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt();
+		sc.close();
+		
 		int sum = 0;	// sum 은 증가한 수의 합
 		int cnt = 1; 	// cnt 는 해당 번째
 		

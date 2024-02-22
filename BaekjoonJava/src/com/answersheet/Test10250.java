@@ -11,9 +11,9 @@ public class Test10250
 		int t = sc.nextInt();
 		for (int i=0; i<t; i++)
 		{
-			int h, w, n; 
+			int h, n; 
 			h = sc.nextInt();	// 층 6
-			w = sc.nextInt();	// 방 10
+			sc.nextInt();	// 방 10 -- 사용하지 않는 w 는 생략
 			n = sc.nextInt();	// 손님 60 -> 
 			
 			int x,y;
@@ -34,6 +34,8 @@ public class Test10250
 			
 			
 		}
+		
+		sc.close();
 	}
 
 }

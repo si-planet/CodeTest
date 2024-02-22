@@ -10,7 +10,7 @@ public class Test11654_1
 		int asc = sc.next().charAt(0);
 		// charAt() : String 에서 char 로 문자열을 잘라 문자로 반환
 		// int 타입으로 문자를 받음으로 그에 대응하는 ASCII 코드 값이 저장 되는 형태
-		
+		sc.close();
 		System.out.println(asc);
 	}
 

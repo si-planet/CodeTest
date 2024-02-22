@@ -39,6 +39,7 @@ public class Test2108_1
 			}
 		}
 		
+		in.close();
 		
 		// 순회 
 		int count = 0;	// 중앙값 빈도 누적 수 

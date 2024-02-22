@@ -1,7 +1,6 @@
 package com.answersheet;
 
 import java.io.*;
-import java.util.Arrays;
 public class Test10989_3
 {
 	public static void main(String[] args) throws IOException

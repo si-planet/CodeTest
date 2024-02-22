@@ -8,6 +8,7 @@ public class Test2744
 	{
 		Scanner sc = new Scanner(System.in);
 		String word = sc.nextLine();
+		sc.close();
 		int arr[] = new int[word.length()]; // 문자길이만큼 방 생성
 		
 		for (int i=0; i<arr.length; i++)

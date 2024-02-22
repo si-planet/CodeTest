@@ -12,6 +12,7 @@ public class Test15964
 		a = sc.nextLong();
 		b = sc.nextLong();
 		
+		sc.close();
 		System.out.println((a+b)*(a-b));
 	}
 }

@@ -1,6 +1,5 @@
 package com.answersheet;
 
-import java.util.*;
 import java.io.*;
 
 class Test1003 

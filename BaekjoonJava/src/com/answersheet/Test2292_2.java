@@ -9,6 +9,7 @@ public class Test2292_2
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt();
+		sc.close();
 		
 		int cnt = 1;
 		int start = 2; 

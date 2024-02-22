@@ -17,7 +17,6 @@ public class Test2789_1
 		
 		int[] arr = new int[N];
 		st = new StringTokenizer(br.readLine(), " ");
-		int sum = 0;	// 합계
 		for (int i=0; i<arr.length; i++)
 			arr[i] = Integer.parseInt(st.nextToken());
 
